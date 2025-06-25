@@ -7,7 +7,6 @@
 - [Pediatric Brain MRI Harmonizer(HAIL)](https://hail.hope4kids.io/)
 - [Pediatric Optic Pathway Glioma Segmenter and Volumetrics(NF1-CAVS)](https://nf1.hope4kids.io/)
 
-
 # Documentation
 - [HOPE Platform ](https://github.com/Pediatric-Accelerated-Intelligence-Lab/HOPE-Platform)
 - [Pediatric High Grade Glioma Segmenter](https://Pediatric-Accelerated-Intelligence-Lab.github.io/HOPE-Segmenter-Kids)
